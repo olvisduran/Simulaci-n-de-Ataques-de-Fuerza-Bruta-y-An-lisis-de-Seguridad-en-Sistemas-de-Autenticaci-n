@@ -1,12 +1,41 @@
-# Brute Force Attack Simulation & Authentication Security Analysis
-This project simulates brute force attacks on web authentication systems in controlled environments. It demonstrates how attackers test multiple credentials and how systems defend against them. The project includes Python scripts, automation, and security recommendations to improve authentication and prevent unauthorized access attempts. thanks....
+# Simulación de Ataques de Fuerza Bruta y Análisis de Seguridad en Sistemas de Autenticación
+Este proyecto simula ataques de fuerza bruta a sistemas de autenticación web en entornos controlados. Demuestra cómo los atacantes prueban múltiples credenciales y cómo los sistemas se defienden contra ellos. El proyecto incluye scripts de Python, automatización y recomendaciones de seguridad para mejorar la autenticación y prevenir intentos de acceso no autorizados.
 
-Objectives
+Objetivos
 
-Simulate brute force attacks on login systems
+Comprender cómo funcionan los ataques de fuerza bruta
 
-Analyze authentication mechanisms
+Simular intentos de autenticación automatizados
 
-Identify vulnerabilities in login forms
+Evaluar la seguridad de formularios de login
 
-Propose mitigation strategies
+Proponer mecanismos de defensa
+
+Enfoque
+
+Simulación en entorno controlado
+
+Uso de scripts automatizados
+
+Técnicas utilizadas
+
+Requests (ataques HTTP)
+
+Selenium (automatización de navegador)
+
+Threading (ejecución paralela)
+
+Wordlists (diccionarios de contraseñas)
+
+
+Herramientas utilizadas
+
+Python
+
+Selenium
+
+Requests
+
+Threading
+
+Navegador Chrome
