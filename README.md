@@ -39,3 +39,22 @@ Requests
 Threading
 
 Navegador Chrome
+
+Descripción de los Scripts
+ brute_force_requests.py
+
+Simula ataques mediante peticiones HTTP
+
+Prueba múltiples combinaciones rápidamente
+
+ brute_force_selenium.py
+
+Simula comportamiento real de usuario
+
+Interactúa con formularios dinámicos
+
+threading_attack.py
+
+Ejecuta múltiples intentos en paralelo
+
+Mejora velocidad del ataque
